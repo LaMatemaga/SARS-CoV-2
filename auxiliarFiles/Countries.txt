@@ -1,0 +1,146 @@
+
+#N/D
+Argentina
+Australia
+Austria
+Bahrain
+Bangladesh
+Belarus
+Belize
+Benin
+Brazil
+Cambodia
+Canada
+Chile
+China
+Colombia
+Cuba
+Czech Republic
+Denmark
+Djibouti
+Ecuador
+Egypt
+Ethiopia
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Guam
+Guatemala
+Guinea
+Hong Kong
+Hungary
+India
+Indonesia
+Iran
+Iraq
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Lebanon
+Libya
+Malawi
+Malaysia
+Mali
+Malta
+Mexico
+Morocco
+Myanmar
+Nepal
+Netherlands
+New Zealand
+Nigeria
+Norway
+Pakistan
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Russia
+Saudi Arabia
+Serbia
+Sierra Leone
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Timor-Leste
+Togo
+Tunisia
+Turkey
+Uganda
+United Kingdom
+Uruguay
+USA
+USA: Alabama
+USA: Alaska
+USA: Arizona
+USA: Arkansas
+USA: California
+USA: Colorado
+USA: Connecticut
+USA: Delaware
+USA: District of Columbia
+USA: Florida
+USA: Georgia
+USA: Guam
+USA: Hawaii
+USA: Idaho
+USA: Illinois
+USA: Indiana
+USA: Iowa
+USA: Kansas
+USA: Kentucky
+USA: Louisiana
+USA: Maine
+USA: Maryland
+USA: Massachusetts
+USA: Michigan
+USA: Minnesota
+USA: Mississippi
+USA: Missouri
+USA: Montana
+USA: Nebraska
+USA: Nevada
+USA: New Hampshire
+USA: New Jersey
+USA: New Mexico
+USA: New York
+USA: North Carolina
+USA: North Dakota
+USA: Ohio
+USA: Oklahoma
+USA: Oregon
+USA: Pennsylvania
+USA: Puerto Rico
+USA: Rhode Island
+USA: South Carolina
+USA: South Dakota
+USA: Tennessee
+USA: Texas
+USA: Utah
+USA: Vermont
+USA: Virgin Islands
+USA: Virginia
+USA: Washington
+USA: West Virginia
+USA: Wisconsin
+USA: Wyoming
+Uzbekistan
+Venezuela
+Viet Nam
+West Bank
+Zambia

@@ -1,0 +1,10 @@
+USA: Colorado
+USA: Idaho
+USA: Kansas
+USA: Montana
+USA: Nebraska
+USA: Nevada
+USA: North Dakota
+USA: South Dakota
+USA: Utah
+USA: Wyoming

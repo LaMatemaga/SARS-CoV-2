@@ -1,0 +1,4 @@
+merge/*
+temporal/PerGroup/*
+temporal/ToMerge/*
+input/*.fasta
